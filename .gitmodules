@@ -17,3 +17,6 @@
 	path = packages/contracts-bedrock/lib/safe-contracts
 	url = https://github.com/safe-global/safe-contracts
 	branch = v1.4.0
+[submodule "op-eigenlayer"]
+	path = op-eigenlayer
+	url = https://github.com/Layr-Labs/eigenlayer-contracts
